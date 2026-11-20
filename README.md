@@ -13,3 +13,6 @@ This is a simple cybersecurity tool created for my Technical Writing and Documen
 3. Open the project folder:
    `cd cybersecurity-analysis-tool`
 4. Make sure Python 3 is installed on your computer to run the scripts.
+
+- Firewall rule validation: Added to development plan.
+- Blocked ports check: Port 21 (FTP), Port 23 (Telnet), and Port 445 (SMB).
